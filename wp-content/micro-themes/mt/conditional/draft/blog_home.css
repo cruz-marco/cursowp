@@ -1,8 +1,25 @@
 
 /*= Blog home ================= */
 
-/** Blog home >> Menu link **/
-#menu-item-43 .menu-link {
-	color: rgb(255, 255, 255) !important;
+/** Blog home >> Principal Post **/
+#content #primary {
+	margin: 5px 0 5px 0 !important;
+}
+
+/** Blog home >> Espaçamento entre posts **/
+.ast-row .post {
+	margin-bottom: 7px !important;
+}
+
+/** Blog home >> Widget area News **/
+#content .widget-area {
+	margin-top: 5px !important;
+}
+
+/** Blog home >> Blocos Widget **/
+#content .widget-area .widget_block {
+	padding: 5px !important;
+	margin: 0 !important;
+	margin-bottom: 7px !important;
 }
 

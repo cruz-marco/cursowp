@@ -1,0 +1,37 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Widget area **/
+#content .widget-area {
+	margin-top: 7px !important;
+}
+
+/** Geral >> Posts Primário **/
+#content .ast-container #primary {
+	margin-top: 7px !important;
+}
+
+/** Geral >> Espaçamento dos posts **/
+#content .ast-container .site-main .ast-row .post {
+	margin-bottom: 15px !important;
+}
+
+/** Geral >> Bloco Widget **/
+#content .widget-area .sidebar-main .widget_block {
+	padding: 8px !important;
+	margin: 0 !important;
+	margin-bottom: 15px !important;
+}
+
+/** Geral >> Item Category **/
+#content .widget-area .sidebar-main .widget_block .wp-block-categories-list .cat-item {
+	margin: 0 !important;
+}
+
+/** Geral >> Minha classe **/
+.minha-classe {
+	font-size: 2em !important;
+}
+
