@@ -30,8 +30,13 @@
 	margin: 0 !important;
 }
 
-/** Geral >> Minha classe **/
-.minha-classe {
-	font-size: 2em !important;
+/** Geral >> Main Home Spacing 1 **/
+.page-id-24 #content .ast-container #primary {
+	margin-top: 0 !important;
+}
+
+/** Geral >> Main Home Spacing 2 **/
+.page-id-24 #content .ast-container #primary .site-main .page {
+	padding: 0 !important;
 }
 
